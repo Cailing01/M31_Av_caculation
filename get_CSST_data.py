@@ -73,8 +73,6 @@ def get_extinc(av):
     co = [1.1426, 0.8519, 0.6455, 0.4903, 0.409]
     return [av * i for i in co]
 
-
-# YUJIAO
 def get_extinc(av):
     co = [1.1426, 0.8519, 0.6455, 0.4903, 0.409]
     return [av * i for i in co]
